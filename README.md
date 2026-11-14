@@ -6,6 +6,10 @@
 
 KratosCivic organiza registros públicos de la Cámara de Diputadas y Diputados de Chile para explorar la actividad legislativa y formar una opinión con información verificable.
 
+## Versión pública
+
+**KratosCivic v1.0.0**, comprobada en producción el 14 de noviembre de 2026. [Consultar novedades](https://kratoscivic.futuroalternativo.net/novedades.html). La versión del software es independiente de la fecha de los datos.
+
 ## Estado y cobertura
 
 La aplicación está desplegada y operativa. La cobertura publicada corresponde a 2026, desde el 11 de marzo hasta el último corte validado que muestra la web. Al comprobar la entrega del 14 de noviembre de 2026 se registraron 155 diputados, 96 sesiones, 1.377 votaciones y 491 proyectos distintos.
