@@ -8,7 +8,7 @@ KratosCivic organiza registros públicos de la Cámara de Diputadas y Diputados 
 
 ## Versión pública
 
-**KratosCivic v1.0.0**, comprobada en producción el 14 de noviembre de 2026. [Consultar novedades](https://kratoscivic.futuroalternativo.net/novedades.html). La versión del software es independiente de la fecha de los datos.
+**KratosCivic v1.0.1**, comprobada en producción el 14 de noviembre de 2026. [Consultar novedades](https://kratoscivic.futuroalternativo.net/novedades.html). La versión del software es independiente de la fecha de los datos.
 
 ## Estado y cobertura
 
