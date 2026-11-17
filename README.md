@@ -8,15 +8,15 @@ KratosCivic organiza registros públicos de la Cámara de Diputadas y Diputados 
 
 ## Versión pública
 
-**KratosCivic v1.0.1**, comprobada en producción el 14 de noviembre de 2026. [Consultar novedades](https://kratoscivic.futuroalternativo.net/novedades.html). La versión del software es independiente de la fecha de los datos.
+**KratosCivic v1.0.2**, comprobada en producción el 15 de noviembre de 2026. [Consultar novedades](https://kratoscivic.futuroalternativo.net/novedades.html). La versión del software es independiente de la fecha de los datos.
 
 ## Estado y cobertura
 
-La aplicación está desplegada y operativa. La cobertura publicada corresponde a 2026, desde el 11 de marzo hasta el último corte validado que muestra la web. Al comprobar la entrega del 14 de noviembre de 2026 se registraron 155 diputados, 96 sesiones, 1.377 votaciones y 491 proyectos distintos.
+La aplicación está desplegada y operativa. La cobertura publicada corresponde a 2026, desde el 11 de marzo hasta el último corte validado que muestra la web. Al comprobar la entrega del 15 de noviembre de 2026 se registraron 155 diputados, 96 sesiones, 1.377 votaciones y 491 proyectos distintos.
 
 La actualización de datos está programada diariamente, sujeta a disponibilidad de las fuentes y de la cuota de procesamiento. Visitar la web o generar un informe no ejecuta una captura. El corte visible no equivale a información oficial en tiempo real.
 
-**Limitación documentada:** la captura del 14 de noviembre no contiene asistencia nominal de la sesión 4853 del 12 de noviembre. El ranking de asistencia comparable del período no se publica mientras falten esos registros. La ausencia de datos no se interpreta como ausencia parlamentaria ni como cero.
+**Asistencia declarada:** la tasa de asistencia se publica para los 155 diputados del corte. Cuando la Cámara no publica el listado nominal de una sesión celebrada, o faltan registros individuales, ese hueco se declara en la web por sesión y el registro ausente queda fuera del cálculo: no se interpreta como ausencia parlamentaria ni como cero. La tasa se calcula solo sobre sesiones con registro nominal, por eso el denominador declarado sigue siendo comparable entre diputados.
 
 ## Qué permite consultar
 
